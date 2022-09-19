@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @givemeperms
+- 👀 I’m interested in Java/Lua
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on Nothing atm
+- 📫 How to reach me Discord: Perms#1990
